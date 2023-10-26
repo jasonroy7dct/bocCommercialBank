@@ -1,6 +1,7 @@
 package model;
 
 import java.io.Serializable;
+import service.BankingService;
 
 public class User implements Serializable {
 
@@ -60,5 +61,17 @@ public class User implements Serializable {
 
   public void setDepositAmount(double depositAmount) {
     this.depositAmount = depositAmount;
+  }
+
+  // for printing meaningful user info
+  @Override
+  public String toString() {
+    return "User{" +
+        "uniqueId=" + uniqueId +
+        ", name='" + name + '\'' +
+        ", address='" + address + '\'' +
+        ", socialSecurityNumber='" + socialSecurityNumber + '\'' +
+        ", depositAmount=" + depositAmount +
+        '}';
   }
 }

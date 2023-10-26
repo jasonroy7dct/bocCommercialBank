@@ -1,0 +1,19 @@
+
+Œ
+java:S1319
+"jThe type of "usersList" should be an interface such as "List" rather than the implementation "LinkedList".(îÂñúÿÿÿÿ8¬«ôÂ¯1
+
+java:S1319C"sThe type of "bankOfOrangeCounty" should be an interface such as "List" rather than the implementation "LinkedList".(ÅÊ×•8¬«ôÂ¯1
+
+java:S1319C"qThe type of "bankOfLosAngeles" should be an interface such as "List" rather than the implementation "LinkedList".(ÅÊ×•8­«ôÂ¯1
+w
+java:S1104
+"UMake usersList a static final constant or non-public and provide accessors if needed.(îÂñúÿÿÿÿ8ö‘Â¯1
+v
+java:S1854E"TRemove this useless assignment to local variable "bankOfSouthernCaliforniaUserList".(£ì—Èşÿÿÿÿ8şéÂ¯1
+l
+java:S1172C"ORemove these unused method parameters "bankOfOrangeCounty", "bankOfLosAngeles".(ÅÊ×•8¥’Â¯1
+O
+java:S1135D"2Complete the task associated to this TODO comment.(…ïœ†8µë™Ê¯1
+g
+java:S1481E"ERemove this unused "bankOfSouthernCaliforniaUserList" local variable.(£ì—Èşÿÿÿÿ8şéÂ¯1
